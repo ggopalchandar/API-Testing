@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 229
+Size: 0
+Timestamp: Mon Jun 15 23:17:20 EDT 2020
+TestStep: Groovy Script
+Error:java.lang.NullPointerException: Cannot invoke method getPropertyValue() on null object
+
+----------------- Messages ------------------------------
+java.lang.NullPointerException: Cannot invoke method getPropertyValue() on null object
+error at line: 16
